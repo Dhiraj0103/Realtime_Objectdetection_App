@@ -3,4 +3,4 @@ This project demonstrates the Udacity self-driving-car dataset and YOLO object d
 
 The complete project is implemented in less than 300 lines of Python and illustrates all the major building blocks of Streamlit.
 
-![](av_final_optimized.gif![image](https://user-images.githubusercontent.com/73341206/115956933-45495300-a51d-11eb-832a-2096158e8825.png)
+![image](https://user-images.githubusercontent.com/73341206/115956933-45495300-a51d-11eb-832a-2096158e8825.png)
