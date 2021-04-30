@@ -6,7 +6,7 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
 
 The complete project is [implemented in less than 300 lines of Python](https://github.com/Dhiraj0103/The-Udacity-Self-driving-Car-Image-Browser/blob/main/streamlit_app.py) and illustrates all the major building blocks of Streamlit.
 
-![Making-of Animation](https://raw.githubusercontent.com/Dhiraj0103/The-Udacity-Self-driving-Car-Image-Browser/master/av_final_optimized.gif "Making-of Animation")
+![Making-of Animation](https://raw.githubusercontent.com/Dhiraj0103/The-Udacity-Self-driving-Car-Image-Browser/blob/master/av_final_optimized.gif "Making-of Animation")
 
 ## How to run this demo
 ```
