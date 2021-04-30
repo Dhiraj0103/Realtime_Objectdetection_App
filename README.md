@@ -11,7 +11,7 @@ The complete project is [implemented in less than 300 lines of Python](https://g
 ## How to run this demo
 ```
 pip install --upgrade streamlit opencv-python
-streamlit run https://raw.githubusercontent.com/Dhiraj0103/The-Udacity-Self-driving-Car-Image-Browser/main/streamlit_app.py
+streamlit run https://raw.githubusercontent.com/Dhiraj0103/The-Udacity-Self-driving-Car-Image-Browser/master/streamlit_app.py
 ```
 
 ### Questions? Comments?
